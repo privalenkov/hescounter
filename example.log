@@ -1,0 +1,30 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-404-593
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2021 23:03:42] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2021 23:03:43] "[37mGET /login?code=def50200bdb09353b039aa387c62cb6205d0b737847b27634a84674c64436ac4a8c5245a83ea1c2fdcdab48f0a3f9927cdcab19ad22f74c77320a9522b756a20dee0afa0253ca13ef3ac2e66c4dd5c8639300b74f863ba1062aaf1409ccd85df0b5781cb0a5a708a741ecaad8fb8ef99d931c7578bb9537fba5bf5d3b9c96269175c54535badc1ef2abeb34dca63bd72a310f0e9e136aa8c27a9fbae0dffa82c9cecb0e95199e2c828aa210a911967d5909387ae241e0aeef596a9b602436e8bce52a97369644f59c8d94f76ec3b5bb12a167ba05db8ab81f1456f30f3828b377257171be20d6f25fb15ab3b8c9dbdca3c4c598f1fdabd1f805a8685b63d90edfd0051464aa4473ca34dd14793c2aeb885c70740a903c68fe483b8bfca811fb64f131a08653f816f4224e2f1f676178d7f1a90dfe25557083c6f4652458551a3c29a9f7efd2e8b3f50b39d74b3448f7ecf18c7d79844db46fd915950fd07a52491f2a8358382c2a17837f8a30c76501241f5a5ebe2ef49edb58a927feb420c07528f3fc1474d8f97920e68604f717f0edd200ca39e39138e9a408784b66c27ef6f54c4615cb3e0 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\HesusCounter\\hesuscounter.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-404-593
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\HesusCounter\\hesuscounter.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 185-404-593
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2021 23:06:45] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2021 23:06:47] "[37mGET /login?code=def50200f31ef19feb4cd91d13fb6855043f541c61794249606b33bb37a0435fd34ab04554380f2220188fb838fbec81234ae4be1c50a04e2f1008edbf9383f168c6444ca88fb0dfbfc1445ce183550b64aea7c3860b4c85d9ddaf436841bba3e1226884658e25d4456a896dd7dfc42bd2ff39bbbf96d7ac38a9f89a1270bdc96938a79421fa4e52367122452c0c3b0cd0e18e75f37b06b1af04aed0ef9b3d26669a45f809a088d877b9f808c6c8fbcf5d2b4d66728eabe323536316fcc9c87b227a6d2f9ef88e3397f4295be9a9f904787c9ad8130a278f4fb3af138a6f6d5ed2dd00526049f986688fe31b83d465db9dca950be00696ced49349b0545521a8baa992f6999b9533408e318eb8c78bf0594477165f8cadffe3f412fe38a7ea1652e9c743a546a3002a756f13e6d22d7d188d9c1312b9addd2107b9ae9bb9c925f0a49b8a2fab9c1bb948e89b91454a6e8bde65c1f3be2e9c7f70ebd2f5255277f0a8b588192c272af000ded68ad5140e91a3dece7bcd4ca18bed64e25ecc0ed1925c49fb9fa5e87e7e5435e30900a14929e36266797f8de2cd1d2e31bddcd649aec43d511482d6 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Python38\\lib\\site-packages\\donationalerts_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat

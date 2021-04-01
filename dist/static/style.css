@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: #e44d26;
+    background: -webkit-linear-gradient(to right, #e44d26, #f16529);
+    background: linear-gradient(to right, #e44d26, #f16529);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #0B2349;
+    margin: 0;
+}
+#alert {
+    color: #ffffff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+    position: absolute;
+    opacity: 0;
+    padding: 0 0 80px 150px;
+    margin: 0;
+}
+.anim {
+    animation: alert  1s ease-in-out;
+}
